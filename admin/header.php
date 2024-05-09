@@ -127,7 +127,7 @@ function checkDelete(){
                                                     </p>
                                                     <div class="divider">
                                                     </div>
-                                                    <a href="viewprofile.php" class="view btn-sm active">View Profile</a>
+                                                    <a href="#" class="view btn-sm active">View Profile</a>
                                                 </div>
                                             </li>
                                         </ul>
